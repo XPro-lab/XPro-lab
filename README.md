@@ -30,5 +30,4 @@ Gobe Soluciones, durante mis prácticas de 1.º de DAW.
 
 ## 🌱 Sobre mí
 
-Me gusta aprender mediante proyectos prácticos, resolver problemas
-y seguir mejorando mis conocimientos de programación y desarrollo web.
+Me gusta aprender creando proyectos, resolver problemas y seguir mejorando mis habilidades de programación.
