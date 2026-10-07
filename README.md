@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola! Soy Samuel 👋
 
-<!--
-**XPro-lab/XPro-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Desarrollo de Aplicaciones Web (DAW).
+Me interesa la programación, el desarrollo web y la creación de videojuegos.
 
-Here are some ideas to get you started:
+En este perfil comparto proyectos académicos y personales con los que
+pongo en práctica lo que voy aprendiendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Conocimientos
+
+- **Programación:** Java, PHP y JavaScript.
+- **Desarrollo web:** HTML y CSS.
+- **Bases de datos:** SQL, modelado y consultas.
+- **Formatos de datos:** XML y JSON.
+- **Herramientas:** Git, GitHub y Visual Studio Code.
+
+## 🚀 Proyecto destacado
+
+### Juego ZAZÚ
+
+Participé en el desarrollo de un juego para ZAZÚ, cliente de
+Gobe Soluciones, durante mis prácticas de 1.º de DAW.
+
+- **Periodo:** abril de 2026.
+- **Duración:** un mes.
+- **Modalidad:** en remoto.
+
+[Ver el repositorio del proyecto](https://github.com/XPro-lab/Juego_ZAZU)
+
+## 🌱 Sobre mí
+
+Me gusta aprender mediante proyectos prácticos, resolver problemas
+y seguir mejorando mis conocimientos de programación y desarrollo web.
