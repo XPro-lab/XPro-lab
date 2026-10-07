@@ -1,4 +1,5 @@
 # ¡Hola! Soy Samuel 👋
+![Banner espacial](./XPro_Banner.png)
 
 Soy estudiante de Desarrollo de Aplicaciones Web (DAW).
 Me interesa la programación, el desarrollo web y la creación de videojuegos.
